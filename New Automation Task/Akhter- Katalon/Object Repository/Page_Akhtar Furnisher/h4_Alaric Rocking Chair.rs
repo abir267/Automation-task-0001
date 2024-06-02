@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Alaric Rocking Chair</name>
+   <tag></tag>
+   <elementGuidId>d007ae3e-4039-42f4-900e-3752f0c46204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.card-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div/div/div/div[2]/div/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Alaric Rocking Chair&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>201a01d8-5c1b-4a66-8f7a-77dfd45945b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title</value>
+      <webElementGuid>7a8cfd67-e6a8-4e94-9497-76c9ec6d0054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alaric Rocking Chair</value>
+      <webElementGuid>72d426a0-92c2-4a96-8389-08f81b2046a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[2]/div[@class=&quot;mx-0 mx-lg-5 mx-md-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12&quot;]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-6 col-xl-4 col-lg-4&quot;]/div[@class=&quot;card rounded-6 border-0 w-100 m-2&quot;]/div[@class=&quot;card-body d-flex flex-column align-items-lg-center&quot;]/h4[@class=&quot;card-title&quot;]</value>
+      <webElementGuid>eb5fa741-1cfb-4213-bebe-a901e9bea500</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div/div/div[2]/div/div/div/div/h4</value>
+      <webElementGuid>9bef5322-1b63-4271-85c8-b4053ff5d2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discount'])[1]/following::h4[1]</value>
+      <webElementGuid>5491661f-066a-461a-9606-5a16578d9208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::h4[1]</value>
+      <webElementGuid>c066e75f-3355-441c-b5a9-10666085bac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='START FROM BDT'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4405b1ec-737e-4a6a-b69e-784c9c746609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT US'])[1]/preceding::h4[1]</value>
+      <webElementGuid>473984b2-5c98-43d1-b762-33454df4a797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alaric Rocking Chair']/parent::*</value>
+      <webElementGuid>16f63f1f-71cc-4f13-9e6e-f45dc6394721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>ee6bf86c-cd47-498f-9a82-742639a092c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Alaric Rocking Chair' or . = 'Alaric Rocking Chair')]</value>
+      <webElementGuid>ffb1aa19-6a82-47c6-a652-387d51f9a87e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

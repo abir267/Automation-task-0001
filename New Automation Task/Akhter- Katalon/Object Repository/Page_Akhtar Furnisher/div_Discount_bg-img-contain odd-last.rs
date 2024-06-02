@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Discount_bg-img-contain odd-last</name>
+   <tag></tag>
+   <elementGuidId>59b37973-9e0e-4b3c-91f9-94b0a4e37171</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bg-img-contain.odd-last</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[2]/div/div/div/div[2]/div/div/div/a/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.card-img-top</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0fe94e64-b291-4700-8d58-db40b5f9eafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-img-contain odd-last</value>
+      <webElementGuid>a341f73c-1d8f-4e11-a0f3-731f280786a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[2]/div[@class=&quot;mx-0 mx-lg-5 mx-md-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12&quot;]/div[@class=&quot;py-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-6 col-6 col-xl-4 col-lg-4&quot;]/div[@class=&quot;card rounded-6 border-0 w-100 m-2&quot;]/a[@class=&quot;card-img-top bg-img-contain position-relative image-wrapper&quot;]/div[@class=&quot;product-bg-img&quot;]/div[@class=&quot;bg-img-contain odd-last&quot;]</value>
+      <webElementGuid>9a8e910d-2108-4358-b707-e9d21bbd7b21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[2]/div/div/div/div[2]/div/div/div/a/div/div[2]</value>
+      <webElementGuid>20f9d0a5-d39a-4bd8-acd1-5d37afac99da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div[2]</value>
+      <webElementGuid>51cfa741-9f07-4b8f-9827-221e396c3429</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
